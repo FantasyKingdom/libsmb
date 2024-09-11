@@ -19,7 +19,7 @@
 #ifndef _LIBSMB2_H_
 #define _LIBSMB2_H_
 
-#include <sys/types.h>
+#include <stddef.h>
 
 #ifdef __cplusplus
 extern "C" {
